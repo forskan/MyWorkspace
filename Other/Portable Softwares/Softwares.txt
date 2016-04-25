@@ -1,0 +1,9 @@
+Notepad ++
+Sublime - 
+Eclipse - JUnit, Code Coverage, Mockito, Color Schema.
+ConEmu  - Multiple consoles in one, browser looking window.
+Clover  - Browser looking windows, with tabs for your folders.
+
+Unity
+Git
+OpenOffice
